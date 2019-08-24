@@ -1,0 +1,1 @@
+This sample demonstrates how to walk a Windows DLL in x86 ASM and locate a function that you want to call.
